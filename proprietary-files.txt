@@ -2256,7 +2256,7 @@ vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc|e60616145
 vendor/etc/permissions/com.fingerprints.extension.xml|de711d8827e1d321b22b60fd75a204e8928f9c6d
 vendor/firmware/goodix_firmware.bin|cbd87b30f72e82adf87537fe93911fb2d70bce84
 vendor/framework/com.fingerprints.extension.jar|7e972c26a5b51fc13bd4eff6584d40a41c5b09c0
-vendor/lib64/com.fingerprints.extension@1.0.so|735b03c839422181b98c3d5ac7d8a73065a7c5c7
+vendor/lib64/com.fingerprints.extension@1.0.so|8535421abc67ffe1386aa8d7c52455c55007d3dd
 vendor/lib64/hw/fingerprint.default.so|f11fae12565ba811f4bf055528c682922e41e0f9
 vendor/lib64/hw/gf_fingerprint.default.so|60dfaf2a31e3e0f9d9197c09a0a0268ed56720ff
 vendor/lib64/libgf_ca.so|e1198954c28992ca9f57bf6a09d3f629bf1bfff4
@@ -2268,7 +2268,7 @@ vendor/lib64/libvendor.goodix.hardware.fingerprint@1.0.so|c9d0251df63d8e34b6d70a
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so|0c5745649eac2b5478ef891a51b18b999bb45fce
 
 # Fingerprint Firmware - from daisy V10.0.20.0.PDLMIXM
-etc/firmware/goodix_firmware.bin:vendor/etc/firmware/goodix_firmware.bin|cbd87b30f72e82adf87537fe93911fb2d70bce84
+vendor/firmware/goodix_firmware.bin|cbd87b30f72e82adf87537fe93911fb2d70bce84
 vendor/firmware/fpctzapp.b00|9cf1d982037e7d06e0c2e2bd18df4400d51ed931
 vendor/firmware/fpctzapp.b01|3d4cd343a326b10119315fc9e02ffedf6dfd2f77
 vendor/firmware/fpctzapp.b02|8e1b7a4fc1b2471670269177c797c1cdd0bccdb0
